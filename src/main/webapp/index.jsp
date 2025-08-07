@@ -889,7 +889,7 @@
                 <img src="https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartphone" class="product-img">
                 <div class="product-info">
                     <h3>iPhone 14 Pro Max</h3>
-                    <div class="price">$1299 <span class="old-price">$1,799</span></div>
+                    <div class="price">$1299 <span class="old-price">$1,899</span></div>
                     <div class="rating">★★★★★ <span>(128)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
@@ -953,7 +953,7 @@
             <div class="product-card">
                 <img src="https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Headphones" class="product-img">
                 <div class="product-info">
-                    <h3>Sony WH-1000XM5</h3>
+                    <h3>Sony WH-1000XM55</h3>
                     <div class="price">$399</div>
                     <div class="rating">★★★★★ <span>(156)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
